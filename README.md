@@ -1,2 +1,2 @@
-# Atm-manage
+#ATM Management System
 
